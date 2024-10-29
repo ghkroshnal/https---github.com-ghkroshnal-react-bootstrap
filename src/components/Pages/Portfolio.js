@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
+import Intro from '../Sections/Intro';
 
 const Portfolio = () => {
   return (
-    <div>
-      <h2>Wait it is comming</h2>
-    </div>
+    <Intro />
   )
 }
 

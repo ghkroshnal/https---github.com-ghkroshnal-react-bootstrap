@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
+import GetStarted from '../Sections/GetStarted';
 
 const Contact = () => {
   return (
-    <div>
-      <h1>Hello world</h1>
-    </div>
+    <GetStarted />
   )
 }
 
